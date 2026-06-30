@@ -1,6 +1,6 @@
 {
-  "name": "Waguri",
-  "description": "Soft pastel theme inspired by Kaoruko Waguri ⊹ ࣪ ˖ blush pink & lavender, gentle and elegant.",
+  "name": "Dignified Waguri",
+  "description": "Soft pastel theme inspired by Kaoruko Waguri \u22b9 \u08ea \u02d6 blush pink & lavender, gentle and elegant.",
   "authors": [
     {
       "name": "Louviere",
@@ -19,9 +19,9 @@
       "#ffb6c1"
     ],
     "BACKGROUND_FLOATING": [
-      "#fdf3f6",
-      "#fdf3f6",
-      "#fdf3f6"
+      "#f5d6e2",
+      "#f5d6e2",
+      "#f5d6e2"
     ],
     "BACKGROUND_MENTIONED": [
       "#ff8fab1a",
@@ -39,14 +39,14 @@
       "#80000008"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#fff7f9",
-      "#fff7f9",
-      "#fff7f9"
+      "#f7dde6",
+      "#f7dde6",
+      "#f7dde6"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#fdeef3",
-      "#fdeef3",
-      "#fdeef3"
+      "#f3d0dd",
+      "#f3d0dd",
+      "#f3d0dd"
     ],
     "BACKGROUND_ACCENT": [
       "#ff8fab",
@@ -74,29 +74,29 @@
       "#ff8fab66"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#fdeef3",
-      "#fdeef3",
+      "#f3d0dd",
+      "#3d2530",
       "#ffffff"
     ],
     "BACKGROUND_PRIMARY": [
-      "#fff7f9",
-      "#fff7f9",
-      "#fff7f9"
+      "#f7dde6",
+      "#f7dde6",
+      "#f7dde6"
     ],
     "BACKGROUND_SECONDARY": [
-      "#fdeef3",
-      "#fdeef3",
-      "#fdeef3"
+      "#f3d0dd",
+      "#f3d0dd",
+      "#f3d0dd"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#fbe4ec",
-      "#fbe4ec",
-      "#fbe4ec"
+      "#efc4d4",
+      "#efc4d4",
+      "#efc4d4"
     ],
     "BACKGROUND_TERTIARY": [
-      "#fdf3f6",
-      "#fdf3f6",
-      "#fdf3f6"
+      "#f5d6e2",
+      "#f5d6e2",
+      "#f5d6e2"
     ],
     "BG_BACKDROP": [
       "#fff7f9b3",
@@ -129,14 +129,14 @@
       "#fffafc"
     ],
     "CHANNELS_DEFAULT": [
-      "#8a5a72",
-      "#8a5a72",
-      "#8a5a72"
+      "#6e3d54",
+      "#6e3d54",
+      "#6e3d54"
     ],
     "CHANNEL_ICON": [
-      "#ff8fab66",
-      "#ff8fab66",
-      "#ff8fab66"
+      "#c2305c99",
+      "#c2305c99",
+      "#c2305c99"
     ],
     "CHAT_BACKGROUND": [
       "transparent",
@@ -149,9 +149,9 @@
       "#fdeef3"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#d68bb9",
-      "#d68bb9",
-      "#d68bb9"
+      "#b9728f",
+      "#b9728f",
+      "#b9728f"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#fdeef3",
@@ -234,9 +234,9 @@
       "#ffffff"
     ],
     "EXPRESSION_PICKER_BG": [
-      "#fbe4ec",
-      "#fbe4ec",
-      "#fbe4ec"
+      "#efc4d4",
+      "#efc4d4",
+      "#efc4d4"
     ],
     "FOCUS_PRIMARY": [
       "#ff8fab",
@@ -249,14 +249,14 @@
       "#ffffff"
     ],
     "HEADER_PRIMARY": [
-      "#5c3a4a",
+      "#3d1f2c",
       "#fdeef3",
-      "#5c3a4a"
+      "#3d1f2c"
     ],
     "HEADER_SECONDARY": [
-      "#9c5f7e",
-      "#9c5f7e",
-      "#9c5f7e"
+      "#7a3f58",
+      "#7a3f58",
+      "#7a3f58"
     ],
     "INFO_DANGER_BACKGROUND": [
       "#fdeef3",
@@ -319,19 +319,19 @@
       "#fdeef3"
     ],
     "INPUT_BACKGROUND": [
-      "#fdf3f6",
-      "#fdf3f6",
-      "#fdf3f6"
+      "#f5d6e2",
+      "#f5d6e2",
+      "#f5d6e2"
     ],
     "INTERACTIVE_ACTIVE": [
+      "#c2305c",
+      "#c2305c",
+      "#c2305c"
+    ],
+    "INTERACTIVE_HOVER": [
       "#e0567d",
       "#e0567d",
       "#e0567d"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#ff8fab",
-      "#ff8fab",
-      "#ff8fab"
     ],
     "INTERACTIVE_MUTED": [
       "#d9b8c6",
@@ -339,9 +339,9 @@
       "#d9b8c6"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8a5a72",
-      "#8a5a72",
-      "#8a5a72"
+      "#6e3d54",
+      "#6e3d54",
+      "#6e3d54"
     ],
     "LOGO_PRIMARY": [
       "#e0567d",
@@ -359,9 +359,9 @@
       "#ffffff"
     ],
     "PANEL_BG": [
-      "#fbe4ec",
-      "#fbe4ec",
-      "#fbe4ec"
+      "#efc4d4",
+      "#efc4d4",
+      "#efc4d4"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#fffafc",
@@ -449,14 +449,14 @@
       "#b9728f"
     ],
     "TEXT_MUTED": [
-      "#9c6e83",
-      "#9c6e83",
-      "#9c6e83"
+      "#7d5267",
+      "#7d5267",
+      "#7d5267"
     ],
     "TEXT_NORMAL": [
-      "#5c3a4a",
-      "#5c3a4a",
-      "#5c3a4a"
+      "#3d1f2c",
+      "#3d1f2c",
+      "#3d1f2c"
     ],
     "TEXT_POSITIVE": [
       "#5cb88a",
