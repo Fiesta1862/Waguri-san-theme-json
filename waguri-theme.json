@@ -1,5 +1,5 @@
 {
-  "name": "Waguri san",
+  "name": "Waguri",
   "description": "Soft pastel theme inspired by Kaoruko Waguri ⊹ ࣪ ˖ blush pink & lavender, gentle and elegant.",
   "authors": [
     {
@@ -75,7 +75,7 @@
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "BACKGROUND_PRIMARY": [
@@ -115,7 +115,7 @@
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
@@ -129,9 +129,9 @@
       "#fffafc"
     ],
     "CHANNELS_DEFAULT": [
-      "#b98aa3",
-      "#b98aa3",
-      "#b98aa3"
+      "#8a5a72",
+      "#8a5a72",
+      "#8a5a72"
     ],
     "CHANNEL_ICON": [
       "#ff8fab66",
@@ -155,72 +155,72 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_CARD_BG": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_CARD_EDITABLE_BG": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_STORE_BG": [
-      "#3d2530",
       "#fdeef3",
-      "#3d2530"
+      "#fdeef3",
+      "#fdeef3"
     ],
     "DEPRECATED_TEXT_INPUT_BG": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_TEXT_INPUT_BORDER": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "DEPRECATED_TEXT_INPUT_PREFIX": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "ELEVATION_HIGH": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "ELEVATION_LOW": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "ELEVATION_MEDIUM": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "EMBED_BACKGROUND": [
@@ -230,7 +230,7 @@
     ],
     "ELEVATION_STROKE": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "EXPRESSION_PICKER_BG": [
@@ -245,7 +245,7 @@
     ],
     "GUILD_HEADER_TEXT_SHADOW": [
       "#fff7f9",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "HEADER_PRIMARY": [
@@ -260,7 +260,7 @@
     ],
     "INFO_DANGER_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#fcdde7"
     ],
     "INFO_DANGER_FOREGROUND": [
@@ -275,7 +275,7 @@
     ],
     "INFO_HELP_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "INFO_HELP_FOREGROUND": [
@@ -284,13 +284,13 @@
       "#ffffff"
     ],
     "INFO_HELP_TEXT": [
-      "#3d2530",
+      "#fdeef3",
       "#fdeef3",
       "#d68bb9"
     ],
     "INFO_POSITIVE_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "INFO_POSITIVE_FOREGROUND": [
@@ -299,13 +299,13 @@
       "#ffffff"
     ],
     "INFO_POSITIVE_TEXT": [
-      "#3d2530",
       "#fdeef3",
-      "#3d2530"
+      "#fdeef3",
+      "#fdeef3"
     ],
     "INFO_WARNING_BACKGROUND": [
       "#fdeef3",
-      "#3d2530",
+      "#fdeef3",
       "#ffffff"
     ],
     "INFO_WARNING_FOREGROUND": [
@@ -314,9 +314,9 @@
       "#ffffff"
     ],
     "INFO_WARNING_TEXT": [
-      "#3d2530",
       "#fdeef3",
-      "#3d2530"
+      "#fdeef3",
+      "#fdeef3"
     ],
     "INPUT_BACKGROUND": [
       "#fdf3f6",
